@@ -1,0 +1,28 @@
+	
+
+
+
+	  Instrucciones SPACE SHIP
+
+	  CONTROLES
+	    Usa las tecla "ARRIBA", "ABAJO", "IZQUIERDA", "DERECHA" para desplazarte por la pantalla
+	    Usa la tecla "ESPACIO" para disparar proyectiles
+
+	  PANTALLA Y OBJETOS
+	    Nave:          Es el jugador
+	    Vidas: 	   Muestra cuanta vida tiene tu nave
+	    Puntuacion:    Muestra cuantos puntos estas acumulando, cuando el juego llegue a su fin tu
+        	           puntaje se guardara
+	    Nombre:        Muestra el nombre del jugador que esta en la partida
+	    Meteoritos:    Obstaculos que haran daño a tu nave
+
+	  COMO JUGAR
+	    Debes esquivar los obstaculos o destruirlos
+	    Si te estrellas contra algun meteorito hara que tu energia disminuya
+	    Si tu energia llega a 0, perderas una VIDA
+	    El juego termina cuando pierdas todas tus vidas
+
+	  OBJETIVO
+	    Realizar la mayor puntuacion que puedas
+
+
